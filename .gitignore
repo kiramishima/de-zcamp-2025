@@ -1,0 +1,5 @@
+.vscode
+Module 2/flows/**/*.csv
+Module 2/flows/**/*.tmp
+Module 2/flows/**/*.json
+Module 2/flows/**/*.ion
